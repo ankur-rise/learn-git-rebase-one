@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
         super.onDestroy();
 //        Log.i
         // I am adding a comment for f2 branch
+        // adding second comment
 
 // adding comment for m2 commit
     }
