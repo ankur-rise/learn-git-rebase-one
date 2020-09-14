@@ -19,8 +19,10 @@ public class MainActivity extends AppCompatActivity {
         // adding second comment
 
 // adding comment for m2 commit
+
         //        Log.i
         // this is a comment for f3
         // next comment for f3
+
     }
 }
